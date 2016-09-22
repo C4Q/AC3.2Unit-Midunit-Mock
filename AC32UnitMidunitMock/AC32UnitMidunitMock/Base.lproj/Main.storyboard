@@ -25,11 +25,20 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="dickens" translatesAutoresizingMaskIntoConstraints="NO" id="nEy-JQ-2y0">
+                                <frame key="frameInset" minX="67" minY="368" width="191" height="206"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="206" id="3ud-2j-Ops"/>
+                                    <constraint firstAttribute="width" constant="191" id="bvT-fe-1jT"/>
+                                </constraints>
+                            </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
+                            <constraint firstItem="nEy-JQ-2y0" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="1Qq-77-tnc"/>
                             <constraint firstItem="2EE-5N-nbf" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="26" id="BoN-aj-ptH"/>
                             <constraint firstItem="2EE-5N-nbf" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="19" id="iuG-Od-pJT"/>
+                            <constraint firstItem="nEy-JQ-2y0" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="yYu-EX-DKC"/>
                         </constraints>
                     </view>
                     <connections>
@@ -41,4 +50,7 @@
             <point key="canvasLocation" x="32.799999999999997" y="38.23088455772114"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="dickens" width="186" height="272"/>
+    </resources>
 </document>
