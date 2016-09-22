@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "20924315E947A32A58F80B797AC64D4DE5947B5D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B3FE3E03735DC0F21974D3EC6F91243749C3F3D5" : 9223372036854775807,
+    "20924315E947A32A58F80B797AC64D4DE5947B5D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "91C44E07-E937-49C0-B125-42FB43A618FD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B3FE3E03735DC0F21974D3EC6F91243749C3F3D5" : "",
+    "20924315E947A32A58F80B797AC64D4DE5947B5D" : "AC3.2Unit-Midunit-Mock\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AC32UnitMidunitMock",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AC32UnitMidunitMock\/AC32UnitMidunitMock.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Mgtei\/AC3.2Unit-Midunit-Mock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "20924315E947A32A58F80B797AC64D4DE5947B5D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Mgtei\/Battleship2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B3FE3E03735DC0F21974D3EC6F91243749C3F3D5"
+    }
+  ]
+}
