@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  HEHEHEHEHEHE
+//  AC3.2UnitMock
 //
 //  Created by C4Q on 9/22/16.
 //  Copyright © 2016 C4Q. All rights reserved.
