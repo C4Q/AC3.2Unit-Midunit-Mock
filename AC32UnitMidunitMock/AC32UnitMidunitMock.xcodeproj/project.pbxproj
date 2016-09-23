@@ -12,6 +12,7 @@
 		EDF162421D946BC000633081 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDF162401D946BC000633081 /* Main.storyboard */; };
 		EDF162441D946BC000633081 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDF162431D946BC000633081 /* Assets.xcassets */; };
 		EDF162471D946BC000633081 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDF162451D946BC000633081 /* LaunchScreen.storyboard */; };
+		EDF1624F1D957FCB00633081 /* Script.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF1624E1D957FCB00633081 /* Script.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EDF162431D946BC000633081 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EDF162461D946BC000633081 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDF162481D946BC000633081 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDF1624E1D957FCB00633081 /* Script.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Script.swift; path = ../Script.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				EDF1623C1D946BC000633081 /* AppDelegate.swift */,
+				EDF1624E1D957FCB00633081 /* Script.swift */,
 				EDF1623E1D946BC000633081 /* ViewController.swift */,
 				EDF162401D946BC000633081 /* Main.storyboard */,
 				EDF162431D946BC000633081 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EDF1623F1D946BC000633081 /* ViewController.swift in Sources */,
+				EDF1624F1D957FCB00633081 /* Script.swift in Sources */,
 				EDF1623D1D946BC000633081 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				EDF1624D1D946BC000633081 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
